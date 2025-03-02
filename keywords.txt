@@ -1,0 +1,222 @@
+Infectious Disease
+Vaccines
+Antibodies
+Anti-Ageing
+Stem cells
+Gene therapy
+Cell therapy
+Tissue Engineering
+Immunotherapy
+Oncology
+Cancer
+Neurology
+Central Nervous System
+Microbiome
+Cardiovascular Diseases
+Autoimmune
+Paediatrics
+Psychiatry
+Drug delivery
+Rare Disease
+Molecular diagnostics
+Probiotics
+Epigenetics
+Mitochondrial Therapeutics
+Diabetic
+Metabolism
+Inflammation
+Anti-infective
+Biosimilars
+Dermatology
+Endocrinology
+Fibrosis
+Gastrointestinal
+Gynaecology
+Haematology
+Hepatics
+Natural Compounds
+Musculoskeletal
+Nephrology
+Obstetrics
+Ophthalmology
+Orthopaedics
+Otorhinolaryngology
+Pain
+Pulmonary
+Rheumatology
+RNA
+Proteins
+Peptides
+Nucleic acid drugs
+Other
+Diagnostic services
+Analytical services
+Cell culture
+Genetic Testing
+CRISPR-Cas
+Gene Editing
+Next Generation Sequencing
+Viral Technology
+Diagnostic instrumentation
+Microarrays
+Biochips
+Regenerative Medicine
+3D Bioprinting 3D
+CRISPR-Cas9
+Biomaterials
+Bioreactors
+Microbubbles
+Microfluidics
+Genetic Circuits
+Metabolic engineering
+Brain interface
+Imaging
+Drug Delivery devices
+Active implantable devices
+Proteomics
+CMO (Contract Manufacturing Organization)
+CRO (Contract Research Organization)
+Drug interaction models
+Genomics
+Screening
+Bioinformatics
+Biodesign
+Bioelectronics
+Biomanufacturing
+Synthesis services
+Biostorage
+Biologics
+Network Pharmacology
+Rationalising Innovation
+Research Tools
+Fill & finish
+Non-active implantable device
+Hospital Hardware
+Surgical devices
+Laboratory equipment
+Dental devices
+Diagnostic and therapeutic radiation devices
+Coatings
+Healthcare facility products and adaptations
+Biological-derived devices
+Electro mechanical medical devices
+Anaesthetic and respiratory devices
+In vitro diagnostic devices
+Ophthalmic and optical devices
+Technical aids for disabled persons
+Wound Care
+Measurement/Monitoring devices
+Single use devices
+Miscellaneous devices
+Complementary therapy devices
+Assistive products for persons with disability
+Reusable instruments
+Infectious Diseases
+Generics Drug
+Microbiome/Bacteriome
+Artificial Intelligence (AI)
+Machine Learning
+5G / 6G
+Blockchain
+Cloud computing
+Telemedicine
+Health & Wellness (IoT)
+Medical Big Data & analytics
+Remote Monitoring
+Telehealth
+Predictive Analytics
+Population Health Management
+Precision and Personalised Medicine
+Chinese Medicine
+Transdermal Patches
+Anti-infectives
+Anti-viral
+Small molecules
+Patient Engagement
+Payments & Insurance
+Electronic Medical Record / Electronic Health Record
+Healthcare Mobile Communication
+Mobile Fitness / Health Apps
+Doctor Networks
+Health Services Search
+Online Health Communities
+Public Health
+Food
+Agricultural Biotech
+Environmental
+Nanotechnology
+Nutraceuticals
+Industrial Biotechnology
+Ocean
+Cosmetics 
+Veterinary
+Micro-biotechnology
+Corporate investor
+Venture Capital Fund
+Initial Public Offering (IPO)
+Corporate Governance
+One Belt One Road
+Institutional investor
+Private investor
+Intellectual Property
+Business angel
+Drug Supply Chain
+Bank fund
+Public fund
+Private equity
+Equity Financing
+Foundation
+Leasing
+Listing requirements
+Quality assurance
+Medical devices
+Distributors
+Chemicals
+APIs (active pharmaceutical ingredients) and excipients
+Clinical Research
+Sales & marketing
+Business Development
+Deal arranger
+Drug Development Consulting
+Market research
+Precision mechanics
+Synthetic materials
+Laboratory engineering
+Laboratory consumables and reagents
+Production engineering
+Packaging & Labelling
+Electronics
+Instrumentation
+Software
+Policies and Regulations
+Law
+Market access
+Scientist/Scientific Services
+Translation services
+Human Resources Services
+Patents & trademarks
+Financial services
+Event organization
+Management consulting
+Operations/Health & safety/Purchasing
+Reimbursement & pricing
+Communication & PR/IR
+Technology Transfer
+Due diligence
+Information provider
+IT Services
+Legal Services
+Property management/Real estate
+Valuation
+Governmental organization
+Hospital
+Research Facility
+Institute / University
+Science / Technology Park
+Private clinic
+Industry Association
+Online Publication
+Newspaper
+TV & Radio
+News agency
+Trade Press
